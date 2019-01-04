@@ -5,7 +5,7 @@ This is a example of memory game build with React. Project structure is based fr
 ## Get Started
 
 1. **Install [Node 6 or newer](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. **Clone this repository.** - `git clone https://github.com/sjakovic/memory-game-react.git` or [download the zip](https://github.com/sjakovic/memory-game-react.git/archive/master.zip)
+2. **Clone this repository.** - `git clone https://github.com/sjakovic/memory-game-react.git` or [download the zip](https://github.com/sjakovic/memory-game-react/archive/master.zip)
 3. **Make sure you're in the directory you just created.** - `cd memory-game-react`
 4. **Install Node Packages.** - `npm install`
 5. **Run the app.** - `npm start -s`
