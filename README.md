@@ -3,7 +3,7 @@
 This is a example of memory game build with React. Project structure is based from course ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents). Idea for styling found on ["How to Build a Memory Matching Game in JavaScript"](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript).
 
 ## Live demo
-https://jakovic.com/memory-game-built-with-react/
+http://jakovic.com/apps/memory-game-react/
 
 ## Get Started
 
